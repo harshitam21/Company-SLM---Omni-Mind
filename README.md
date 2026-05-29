@@ -8,7 +8,7 @@ The interface is engineered with a light, professional B2B SaaS CRM theme (remin
 
 ## 📸 Application Screenshot
 
-![ABC Industries CRM AI Dashboard](dashboard.png)
+![ABC Industries CRM AI Dashboard]
 
 ---
 
